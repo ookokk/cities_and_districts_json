@@ -1,14 +1,12 @@
 # Cities And Districts Json
 
-Countries, Cities, and Districts
-
 This repository contains JSON data for cities and their corresponding districts in the following countries.
 
-Contents
+# Contents
 
 For each country, JSON files include cities and their respective districts.
 
-Countries
+# Countries
 
 Turkey
 
